@@ -1,0 +1,8 @@
+---
+id: weather-plots
+name: Weather Plots
+summary: View hourly weather plots
+desc: Using the open-meteo API, display hourly plots of the upcoming weather for your location.
+author: theterg
+fileName: weather_plots.star
+packageName: weatherplots
